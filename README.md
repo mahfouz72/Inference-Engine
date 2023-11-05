@@ -18,7 +18,7 @@ This project involves designing and implementing an inference engine that can ap
 
 ## Implementation Details
 
-The program will take two logical expressions as input and apply the inference rules to generate the output. The input expressions should be simple, without parentheses, and should contain at most one binary operation. The binary operation can be either implication (>) or disjunction (v).
+The program will take two logical expressions as input and apply the inference rules to generate the output. The input expressions should be simple, without parentheses, and should contain at most one binary operation. 
 
 The program will identify the type of inference rule that can be applied to the given input expressions and then perform the corresponding logical deduction. It will output the result of the inference process along with the applied rule.
 
