@@ -37,4 +37,4 @@ The program will identify the type of inference rule that can be applied to the 
 - Enhance the program to handle more complex expressions and support additional inference rules.
 - Provide a user-friendly interface for input and output.
 - Allow for the inclusion of parentheses for grouping expressions.
-- Implement error handling for invalid inputs.
+- Implement error handling for invalid inputs.(DONE)
