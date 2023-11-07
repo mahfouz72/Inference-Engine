@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
         InferenceEngine inferenceEngine = new InferenceEngine();
         Scanner in = new Scanner(System.in);
-        boolean runing = true;
 
         inferenceEngine.addRule(new ModusPonens());
         inferenceEngine.addRule(new ModusTollens());
